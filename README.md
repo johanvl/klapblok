@@ -66,7 +66,7 @@ https://www.kaggle.com/competitions
 
 
 
-#analytics
+# analytics
 https://www.lunametrics.com/blog/2015/12/10/basic-google-analytics-filters/
 http://www.lunametrics.com/regex-book/Regular-Expressions-Google-Analytics.pdf
 
@@ -162,7 +162,7 @@ https://www.elastic.co/webinars/vega-plugin-custom-visualizations-with-kibana
 
 https://medium.freecodecamp.org/we-just-released-3-years-of-freecodecamp-chat-history-as-open-data-all-5-million-messages-of-it-a03901f4d6fb
 
-#webdev--------------------------
+# webdev--------------------------
 http://placehold.it/700x400
 
 https://medium.freecodecamp.org/620-free-online-programming-computer-science-courses-you-can-start-in-march-68af9d45a115
@@ -176,12 +176,12 @@ https://www.entrepreneur.com/article/250323
 https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7
 
 
-#Autonomouse viacle------------------
+# Autonomouse viacle------------------
 
 https://www.rs-online.com/designspark/lidar-radar-digital-cameras-the-eyes-of-autonomous-vehicles?cm_mmc=NL-EM-_-DSN_20180305-_-DM92713-_-TWIN_TITLE1&cid=DM92713&bid=670350452
 
 
-#hacking ---------------------
+# hacking ---------------------
 
 https://www.youtube.com/watch?v=5sqye64-1-k
 https://www.youtube.com/watch?v=x6r2hgiuJxw
