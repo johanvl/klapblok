@@ -1,6 +1,6 @@
 # klapblok
 
----#dataminnig
+# dataminnig
 
 https://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books
 
@@ -73,26 +73,7 @@ http://www.lunametrics.com/regex-book/Regular-Expressions-Google-Analytics.pdf
 https://analytics.google.com/analytics/academy/course/6/unit/3/assessment/Assessment_3
 
 
-#sql----------------------
-http://sqlfiddle.com/about.html
-http://sol.gfxile.net/g3/
-https://schemaverse.com
-https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about
-http://www.mysqltutorial.org
-https://www.sololearn.com/Course/SQL/
-https://learncodethehardway.org/sql/
-https://code.tutsplus.com/articles/sql-for-beginners--net-8200
-http://sqlzoo.net
-https://www.khanacademy.org/computing/computer-programming/sql
-$  https://www.hackerrank.com/domains/sql/select
-http://www.sqlcourse.com
 
-https://www.topzenith.com/2017/07/top-10-best-sql-video-tutorials.html
-
-
-https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
-
-http://radacad.com/basics-of-m-power-query-formula-language
 
 https://eu.udacity.com
 https://www.tutorialspoint.com/index.htm
@@ -125,7 +106,7 @@ https://blog.adafruit.com/2018/03/19/new-yorker-applied-machine-learning-to-bloc
 
 http://www.nickwinter.net
 
-#21eeuw skills--------------------
+# 21eeuw skills--------------------
 https://www.kennisnet.nl/artikel/9-x-zo-begin-je-als-basisschool-met-programmeren/
 https://www.classdojo.com/nl-nl/resources/
 http://kata.coderdojo.com/index.php?title=Learning_Resource&action=history
